@@ -11,3 +11,4 @@
 - [2026-04-27T15:34:54Z] refactor: simplify conditional logic
 - [2026-04-27T13:54:54Z] chore: remove deprecated API calls
 - [2026-04-27T13:17:25Z] chore: update dependencies to latest versions
+- [2026-04-27T16:08:46Z] fix: handle null pointer exception
