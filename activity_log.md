@@ -14,3 +14,4 @@
 - [2026-04-27T16:08:46Z] fix: handle null pointer exception
 - [2026-04-27T10:07:44Z] docs: improve inline documentation
 - [2026-04-27T12:30:41Z] fix: handle null pointer exception
+- [2026-04-27T08:25:20Z] feat: add helper utility function
