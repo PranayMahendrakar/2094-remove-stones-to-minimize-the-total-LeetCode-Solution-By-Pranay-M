@@ -10,3 +10,4 @@
 - [2026-04-27T14:19:39Z] docs: improve inline documentation
 - [2026-04-27T15:34:54Z] refactor: simplify conditional logic
 - [2026-04-27T13:54:54Z] chore: remove deprecated API calls
+- [2026-04-27T13:17:25Z] chore: update dependencies to latest versions
